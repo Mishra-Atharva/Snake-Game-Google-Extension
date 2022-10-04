@@ -1,2 +1,2 @@
-# Snake-Game-Google-Extention
+# Snake-Game-Google-Extension
 ![](game.png)
